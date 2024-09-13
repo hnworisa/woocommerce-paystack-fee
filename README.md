@@ -1,6 +1,6 @@
 # Paystack Transaction Fee for WooCommerce
 
-**Contributors:** Chinemerem Nworisa
+**Contributors:** Chinemerem Nworisa  
 **Tags:** WooCommerce, Paystack, Payment Gateway, Fees  
 **Requires at least:** 5.0  
 **Tested up to:** 6.1  
