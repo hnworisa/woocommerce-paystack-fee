@@ -14,9 +14,16 @@ The **Paystack Transaction Fee for WooCommerce** plugin adds Paystack transactio
 
 ## Installation
 
-1. **Upload the plugin**: Go to `Plugins > Add New` in your WordPress admin, then upload the `woocommerce-paystack-fee.php` file.
-2. **Activate the plugin**: After uploading, click the "Activate" button to enable the plugin.
-3. **Configure the settings**: Go to `WooCommerce > Settings > Paystack Transaction Fee` to configure the plugin settings.
+1. **Download the Plugin**: Download the [latest release](https://github.com/hnworisa/woocommerce-paystack-fee/releases/latest) from GitHub (use the asset named `woocommerce-paystack-fee-{version}.zip`).
+
+2. **Upload the Plugin**:
+   - Go to `Plugins > Add New` in your WordPress admin panel.
+   - Click the "Upload Plugin" button at the top.
+   - Upload the zipped archive you downloaded.
+
+3. **Activate the Plugin**: After the upload completes, click the "Activate Plugin" link to enable the plugin.
+
+4. **Configure the Settings**: Go to `WooCommerce > Settings > Paystack Transaction Fee` to configure the plugin settings.
 
 ## Usage
 
